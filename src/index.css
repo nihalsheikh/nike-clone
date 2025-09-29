@@ -3,6 +3,17 @@
 
 @import "tailwindcss";
 
+@theme {
+	--color-slate-gray: #6d6d6d;
+	--color-primary: #eceeff;
+	--color-coral-red: #ff6452;
+	--color-pale-blue: #f5f6ff;
+	--color-white-400: rgba(255, 255, 255, 0.8);
+
+	--font-montserrat: "Montserrat", sans-serif;
+	--font-palanquin: "Palanquin", sans-serif;
+}
+
 * {
 	margin: 0;
 	padding: 0;
