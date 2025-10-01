@@ -9,7 +9,7 @@ import {
 	SuperQuality,
 } from "./sections";
 
-import Nav from "./components/Nav";
+import { Nav } from "./components";
 import React from "react";
 
 const App = () => (
