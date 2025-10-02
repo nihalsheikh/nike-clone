@@ -31,7 +31,7 @@ const SuperQuality = () => {
 					src={shoe8}
 					alt="shoe8"
 					width={570}
-					height={533}
+					height={522}
 					className="object-contain"
 				/>
 			</div>
